@@ -73,7 +73,7 @@ body {
     display: grid;
     place-items: center;
     align-items: center;
-    width: 220px;
+    width: 280px;
     height: 60vh;
     margin: 20vh auto;
     background-color: hsl(0, 0%, 100%);
@@ -95,7 +95,7 @@ body {
     display: grid;
     place-items: center;
     align-items: center;
-    width: 220px;
+    width: 280px;
     height: 60vh;
     margin: 20vh auto;
     background-color: hsl(0, 0%, 100%);
@@ -117,7 +117,7 @@ body {
     display: grid;
     place-items: center;
     align-items: center;
-    width: 220px;
+    width: 280px;
     height: 60vh;
     margin: auto auto;
     background-color: hsl(0, 0%, 100%);
